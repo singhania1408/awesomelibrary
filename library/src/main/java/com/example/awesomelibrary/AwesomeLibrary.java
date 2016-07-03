@@ -19,6 +19,6 @@ public class AwesomeLibrary
 
     public void functionToast(Context context,String data)
     {
-        Toast.makeText(context, "Awesome "+data, Toast.LENGTH_LONG).show();
+        Toast.makeText(context, "Awesome Library "+data, Toast.LENGTH_LONG).show();
     }
 }

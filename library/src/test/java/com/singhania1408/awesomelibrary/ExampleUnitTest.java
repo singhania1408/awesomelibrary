@@ -1,4 +1,4 @@
-package com.example.awesomelibrary;
+package com.singhania1408.awesomelibrary;
 
 import org.junit.Test;
 

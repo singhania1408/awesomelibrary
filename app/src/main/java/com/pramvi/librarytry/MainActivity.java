@@ -3,7 +3,7 @@ package com.pramvi.librarytry;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
-import com.example.awesomelibrary.AwesomeLibrary;
+import com.singhania1408.awesomelibrary.AwesomeLibrary;
 
 public class MainActivity extends AppCompatActivity {
 
